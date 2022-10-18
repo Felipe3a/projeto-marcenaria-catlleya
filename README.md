@@ -1,1 +1,1 @@
-#Projeto em andamento de Landing Pag usando um templete pronto 
+#Projeto em andamento de uma Landing Page usando um templete pronto 
